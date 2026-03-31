@@ -1,6 +1,6 @@
 (function() {
   const user = "wg-library";
-  const repo = "wg-library";
+  const repo = "microsite-affiliate";
   const branch = "main"; 
   const baseUrl = `https://cdn.jsdelivr.net/gh/${user}/${repo}@${branch}/`;
 
